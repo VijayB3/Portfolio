@@ -76,7 +76,7 @@ This portfolio is open for personal and educational use. Feel free to fork and c
 
 ### 📫 Contact Me
 - **Email:** vijayvb000@gmail.com  
-- **LinkedIn:** [Vijay Bhalerao](https://www.linkedin.com/in/vijay-bhalerao-3aaaa1374/)  
+- **LinkedIn:** https://www.linkedin.com/in/vijay-bhalerao-3aaaa1374/
 - **GitHub:** [VijayB3](https://github.com/VijayB3)
 
 ---
