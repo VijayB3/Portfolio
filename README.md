@@ -57,6 +57,8 @@ This portfolio is built with **HTML, Tailwind CSS, and responsive design princip
 ---
 
 ## 🖼 Portfolio Thumbnail
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7ca5e633-3689-4d2c-b573-ebbb5a4af152" />
+
 The portfolio uses a modern **thumbnail image** to represent the website visually, making it suitable for social sharing and project previews.
 
 ---
