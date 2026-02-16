@@ -15,7 +15,7 @@ This portfolio is built with **HTML, Tailwind CSS, and responsive design princip
 ## ⚙️ Technologies & Tools Used
 - **Frontend:** HTML5, CSS3, Tailwind CSS
 - **DevOps/Cloud Skills Showcased:**
-  - AWS (EC2, ECR)
+  - AWS  
   - Jenkins
   - Docker & Containerization
   - Kubernetes
