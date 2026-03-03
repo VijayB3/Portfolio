@@ -20,7 +20,7 @@ This portfolio is built with **HTML, Tailwind CSS, and responsive design princip
   - Docker & Containerization
   - Kubernetes
   - Terraform & Ansible
-  - Git & GitHub
+  - GIT & GitHub
   - Monitoring: Prometheus & Grafana
 - **Programming Languages:** Python (Basics), Java, SQL, HTML, CSS, JavaScript
 - **CI/CD Pipelines:** Automated build, test, and deployment workflows
