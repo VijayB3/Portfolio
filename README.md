@@ -50,7 +50,7 @@ This portfolio is built with **HTML, Tailwind CSS, and responsive design princip
      - Created Jenkins pipelines to build, tag, and deploy Docker images to **Docker Hub & AWS ECR**.
      - [View on GitHub →](https://github.com/VijayB3)
 
-### Contact Section
+### Contact Section.
 - Provides links for hiring inquiries and networking.
 - Includes email, LinkedIn, and GitHub buttons for direct contact.
 
