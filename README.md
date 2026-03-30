@@ -7,7 +7,7 @@ You can view the hosted portfolio here: https://vijayb3.github.io/Portfolio/
 
 ---
 
-## 💼 About the Portfolio
+## 💼 About the Portfolio.
 This portfolio is built with **HTML, Tailwind CSS, and responsive design principles** to provide a modern and clean look. It is fully **responsive**, working smoothly on both desktop and mobile devices. The site demonstrates my expertise in DevOps, CI/CD, cloud infrastructure, and automation through visually appealing project sections and skill highlights.
 
 ---
