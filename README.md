@@ -63,7 +63,7 @@ The portfolio uses a modern **thumbnail image** to represent the website visuall
 
 ---
 
-## 🔗 How to Use / Contribute
+## 🔗 How to Use / Contribute.
 This repository is meant as a personal portfolio demo. You can:
 1. Fork the repository.
 2. Customize your own portfolio content (name, projects, skills, contact).
